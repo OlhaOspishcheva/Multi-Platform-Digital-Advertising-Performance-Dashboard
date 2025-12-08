@@ -130,10 +130,9 @@ https://lookerstudio.google.com/reporting/023e4695-49ee-4c40-ac45-a208f6c7a7cb
 ## 📂 Repository Structure
 
 /screenshots       → Dashboard images  
-/sql               → SQL queries (unification, metrics, cleaning)  
-/docs              → Metric definitions, data dictionary  
-/data_sample       → Anonymized example dataset  
 README.md          → Project documentation  
+/data_cvs          → Example dataset  
+/sql               → SQL query (unification, metrics, cleaning)     
 
 ## 📬 Contact
 www.linkedin.com/in/olha-ospishcheva  
